@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792315528475",
+    "project_id": "luan-filmes",
+    "storage_bucket": "luan-filmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792315528475:android:69de91bef49f07d02effbe",
+        "android_client_info": {
+          "package_name": "com.example.filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792315528475-lorus3el5rn4jf0hpdp36r5unjacjc6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0th_uUNimIOZB1zXRPQsrqMkO9GkvQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792315528475-lorus3el5rn4jf0hpdp36r5unjacjc6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
